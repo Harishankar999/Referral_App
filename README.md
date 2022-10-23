@@ -5,7 +5,7 @@
 ## Step:02 (Login).
 ## You will get a your referral link to share.
 
-## If you are sharing your referral link with anyone. And the another user use that link to join the referral code will be applied automatically. Then user must have to SignUp with Unique Mobile Number (Actually i forgot to do this part if you want i can do this).
+## If you are sharing your referral link with anyone and the another user use that link to join the referral code will be applied automatically. Then user must have to SignUp with Unique Mobile Number (Actually i forgot to do this part if you want i can do this).
 
 ## After login user will be able to see their referral piont on the dashboard.
 
